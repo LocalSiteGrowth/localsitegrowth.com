@@ -1,0 +1,96 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Local Site Growth",
+    "image": "https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/c9e9a94f-ed3d-464e-c57e-41a53befa600/publicContain",
+    "description": "Custom web design services for small businesses and independent professionals across New Zealand and internationally.",
+    "url": "https://www.localsitegrowth.com",
+    "telephone": "+64225707467",
+    "email": "info@localsitegrowth.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5/6 Darvel Street, Riccarton",
+      "addressLocality": "Christchurch",
+      "addressRegion": "Canterbury",
+      "postalCode": "8011",
+      "addressCountry": "NZ"
+    },
+    "areaServed": [
+      { "@type": "Place", "name": "Queenstown" },
+      { "@type": "Place", "name": "Invercargill" },
+      { "@type": "Place", "name": "Dunedin" },
+      { "@type": "Place", "name": "Te Anau" },
+      { "@type": "Place", "name": "Southland" }
+    ],
+    "priceRange": "$$",
+    "sameAs": [
+      "https://facebook.com/localsitegrowth",
+      "https://instagram.com/localsitegrowth"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Local Site Growth",
+    "description": "Custom web design services for small businesses and independent professionals across New Zealand and internationally.",
+    "serviceType": "Custom Web Design",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Local Site Growth"
+    },
+    "areaServed": [
+      { "@type": "Place", "name": "Queenstown" },
+      { "@type": "Place", "name": "Invercargill" },
+      { "@type": "Place", "name": "Dunedin" },
+      { "@type": "Place", "name": "Te Anau" },
+      { "@type": "Place", "name": "Southland" }
+    ],
+    "url": "https://www.localsitegrowth.com"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Local Site Growth",
+    "url": "https://www.localsitegrowth.com",
+    "description": "Custom web design services for businesses in New Zealand and internationally"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How long does it take to build my website?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most websites take between 2–3 weeks to complete after approval of the demo and design. Smaller websites may be completed sooner depending on the project scope."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I own the website once it's built?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Once final payment is completed, full ownership of the website is transferred to you."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does it cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A free website demo is provided before any commitment. Final pricing depends on the features, functionality, and scope of the project."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you work with businesses outside New Zealand?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Local Site Growth works with businesses in New Zealand and international clients remotely."
+        }
+      }
+    ]
+  }
+]
